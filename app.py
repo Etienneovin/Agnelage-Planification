@@ -49,7 +49,7 @@ st.markdown("""
 
 # EN-TÊTE STYLISÉ
 st.markdown("<h1>Agnel'Plan</h1>", unsafe_allow_html=True)
-st.markdown("<p class='subtitle'>De la lutte au sevrage</p>", unsafe_allow_html=True)
+st.markdown("<p class='subtitle'>De la lutte au sevrage, le calendrier de vos agnelages </p>", unsafe_allow_html=True)
 
 # Petite ligne de séparation subtile en laiton/or vieilli
 st.markdown("<div style='border-bottom: 2px solid #D1C4B9; width: 50px; margin-bottom: 2rem;'></div>", unsafe_allow_html=True)
