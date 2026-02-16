@@ -19,7 +19,7 @@ st.markdown("""
 
 # EN-TÊTE
 st.title("🐑 Agnel'Plan")
-st.write("*Carnet de bergerie — Style Tachainville*")
+st.write("*Carnet de bergerie*")
 
 # 2. PARAMÈTRES DU LOT (ÉCRAN PRINCIPAL)
 with st.container():
